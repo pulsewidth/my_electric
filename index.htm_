@@ -17,11 +17,10 @@ img {max-width:100%;}</style>
 <div style="margin:40px">
     <p><a href="/my_electric/index.html">here</a> <a href="/my_electric/list.html">list</a> <a href="/my_electric/log.html">log</a> <a href="/my_electric/about.html">about</a></p><br>
     <p>my electric is a radio programme on 91.3 fm in regina, sk, canada</p>
-    <p>A new place to say things and to show things(mostly playlists)
-    Please stay tuned...</p>
-
+    <p>a new place to say things and to show things(mostly playlists)
+    please stay tuned...</p>
     <hr>
-    <p><img src="images/site_banner1.jpg" alt="site_banner"></p>
+    <p><img src="my_electric/images/site_img2.jpg" alt="site_banner"></p>
 </div>
 </body>
 </html>
