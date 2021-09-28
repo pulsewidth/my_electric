@@ -66,8 +66,8 @@ for file in $list ; do
   # append to rss
   echo "<item>" >> rss.xml
   echo "<title>${folder} / ${name}</title>" >> rss.xml
-  echo "<link>https://nnnnnnnn.co/${folder}/${name}.html</link>" >> rss.xml
-  echo "<guid>https://nnnnnnnn.co/${folder}/${name}.html</guid>" >> rss.xml
+  echo "<link>https://my_electric.github.io/${folder}/${name}.html</link>" >> rss.xml
+  echo "<guid>https://my_electric.github.io/${folder}/${name}.html</guid>" >> rss.xml
   echo "<description><![CDATA[" >> rss.xml
   cmark ${file} >> rss.xml
   echo "]]></description>" >> rss.xml
