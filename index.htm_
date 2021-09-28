@@ -15,7 +15,7 @@ img {max-width:100%;}</style>
 </head>
 <body>
 <div style="margin:40px">
-    <p><a href="/index.html">here</a> <a href="/list.html">list</a> <a href="/log.html">log</a> <a href="/about.html">about</a></p><br>
+    <p><a href="/index.html">here</a> <a href="/my_electric/list.html">list</a> <a href="/my_electric/log.html">log</a> <a href="/my_electric/about.html">about</a></p><br>
     <p>my electric is a radio programme on 91.3 fm in regina, sk, canada</p>
     <p>A new place to say things and to show things(mostly playlists)
     Please stay tuned...</p>
