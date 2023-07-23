@@ -1,5 +1,3 @@
-
-
 hi!
 
 this is a new web location for my electric.  
