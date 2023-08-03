@@ -51,7 +51,7 @@ for file in $list ; do
   # paginate
   if [ $((n % 19)) == 0 ]; then
     echo "--- page ---"
-    echo "<br/><p><a href=my_electric/${log}n.html>[further]</a></p>" >> ${log}.html
+    echo "<br/><p><a href=${log}n.html>[further]</a></p>" >> ${log}.html
     cat end.htm_ >> ${log}.html
     log=$log"n"
     cat start.htm_ > ${log}.html
