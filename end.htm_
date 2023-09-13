@@ -3,13 +3,12 @@
 <meta name="keywords" content="my electric, ernie dulanowsky, cjtr">
 <meta name="author" content="ernie dulanowsky">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&amp;display=swap" rel="stylesheet">
-<style>body {background-color:#F3FFFF; max-width:800px; margin: auto; color:#366676;
-  font-family: 'Roboto Mono', monospace; font-size: 0.8em;}
+<style>body {background-color:#2e3440; max-width:800px; margin: auto; color:#81a1c1;
+  font-family: 'Roboto Mono', monospace; font-size: 0.9em;}
 code {font-size: 1.6em; color:#999;}
 h1 {font-weight:bold; font-size: 1em; margin-top:2em;}
-hr {margin-bottom:3em; clear: both; visibility: hidden;}
-a {color:#3B707E;}
-a:hover {color:#CBDAD7;}
+hr {margin-bottom:4em; clear: both; visibility: hidden;}
+a {color:#56697e;}
+a:hover {color:#a3be8c;}
 img {max-width:100%;}</style>
 </head>
